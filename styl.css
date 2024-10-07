@@ -1,0 +1,36 @@
+h1, h2{
+    text-align: center;
+}
+#gora{
+    height: 200px;
+    background-color: rgb(107, 49, 49);
+}
+#menu{
+ display: flex;
+}
+#lewo, #prawo{
+height: auto;
+width: 25%;
+background-color: rgb(145, 88, 88);
+}
+#srodek{
+    background-color: rgb(204, 203, 203);
+    width: 50%;
+}
+footer{
+    height: 100px;
+    background-color: rgb(107, 49, 49);
+}
+th,td{
+ 
+    padding: 30px;
+}
+table{
+    margin: 50px;
+}
+th:hover{
+background-color: brown;
+}
+td:hover{
+    background-color: aquamarine;
+}
